@@ -1,4 +1,22 @@
 {
+	"[str] PLAYER_ROCKSTAR_ID": [
+		{
+			"addition": "[str] MANUAL/AUTOMATIC/ANTICHEAT",
+			"datetime": "[int] MILLIS_TIME",
+			"username": "[str] PLAYER_USERNAME",
+			"modder": "[str] DEFINITELY/LIKELY",
+			"reason": [
+				"[str] MODDER_REASON",
+				"[str] MODDER_REASON",
+				"[str] MODDER_REASON"
+			],
+			"rank": "[int] PLAYER_RP_RANK",
+			"wallet": "[int] PLAYER_MONEY_WALLET",
+			"bank": "[int] PLAYER_MONEY_BANK",
+			"earnings": "[int] PLAYER_MONEY_EARNINGS"
+		}
+	],
+
 	"228106252": [
 		{
 			"addition": "manual",
