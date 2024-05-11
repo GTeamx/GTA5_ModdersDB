@@ -2,7 +2,7 @@
 	"[str] PLAYER_ROCKSTAR_ID": [
 		{
 			"addition": "[str] MANUAL/AUTOMATIC/ANTICHEAT",
-			"datetime": "[int] MILLIS_TIME",
+			"datetime": "[int] SECONDS_TIME",
 			"username": "[str] PLAYER_USERNAME",
 			"modder": "[str] DEFINITELY/LIKELY",
 			"reason": [
@@ -20,7 +20,7 @@
 	"228106252": [
 		{
 			"addition": "manual",
-			"datetime": "1715417945739",
+			"datetime": "1715417945",
 			"username": "IiIiiIiiIiiIixst",
 			"modder": "definitely",
 			"reason": [
