@@ -3,8 +3,7 @@
 		"addition": "[str] MANUAL/AUTOMATIC/ANTICHEAT",
 		"datetime": "[int] SECONDS_TIME",
 		"username": "[str] PLAYER_USERNAME",
-		"modder": "[str] DEFINITELY/LIKELY",
-		"reason": [
+		"modder": [
 			"[str] MODDER_REASON",
 			"[str] MODDER_REASON",
 			"[str] MODDER_REASON"
@@ -19,8 +18,7 @@
 		"addition": "manual",
 		"datetime": "1715417945",
 		"username": "IiIiiIiiIiiIixst",
-		"modder": "definitely",
-		"reason": [
+		"modder": [
 			"Potential Force Teleport (No Current Vehicle)",
 			"Spoofed Host Token",
 			"Drop Kick Doping"
@@ -29,5 +27,18 @@
 		"wallet": "7706345",
 		"bank": "48134233",
 		"earnings": "55840578"
+	},
+
+	"245128503": {
+		"addition": "manual",
+		"datetime": "1715507061",
+		"username": "TESEES",
+		"modder": [
+			"Advertisement"
+		],
+		"rank": "45",
+		"wallet": "756630",
+		"bank": "234460",
+		"earnings": "991090"
 	}
 }   
