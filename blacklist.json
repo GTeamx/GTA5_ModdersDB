@@ -196,5 +196,18 @@
 		"wallet": "37924",
 		"bank": "0",
 		"earnings": "37924"
+	},
+
+	"10733282": {
+		"addition": "anticheat",
+		"datetime": "1715633952",
+		"username": "DOC_GAX_REN",
+		"modder": [
+			"Spoofed Host Token"
+		],
+		"rank": "62",
+		"wallet": "1215956",
+		"bank": "45110",
+		"earnings": "1261066"
 	}
 }
