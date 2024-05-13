@@ -222,5 +222,18 @@
 		"wallet": "0",
 		"bank": "0",
 		"earnings": "0"
+	},
+
+	"164909359": {
+		"addition": "anticheat",
+		"datetime": "1715634217",
+		"username": "HamoudaTAM10",
+		"modder": [
+			"TRN"
+		],
+		"rank": "38",
+		"wallet": "31324",
+		"bank": "118153",
+		"earnings": "149477"
 	}
 }
