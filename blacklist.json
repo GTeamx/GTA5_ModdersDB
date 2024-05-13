@@ -261,5 +261,18 @@
 		"wallet": "0",
 		"bank": "0",
 		"earnings": "0"
+	},
+
+	"246884583": {
+		"addition": "anticheat",
+		"datetime": "1715634773",
+		"username": "NvvyGosh",
+		"modder": [
+			"Rockstar Dev Spoof"
+		],
+		"rank": "94",
+		"wallet": "0",
+		"bank": "0",
+		"earnings": "0"
 	}
 }
