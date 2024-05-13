@@ -209,5 +209,18 @@
 		"wallet": "1215956",
 		"bank": "45110",
 		"earnings": "1261066"
+	},
+
+	"213165431": {
+		"addition": "anticheat",
+		"datetime": "1715634002",
+		"username": "DSRibeiro_222",
+		"modder": [
+			"TRN"
+		],
+		"rank": "0",
+		"wallet": "0",
+		"bank": "0",
+		"earnings": "0"
 	}
 }
