@@ -235,5 +235,18 @@
 		"wallet": "31324",
 		"bank": "118153",
 		"earnings": "149477"
+	},
+
+	"85432407": {
+		"addition": "anticheat",
+		"datetime": "1715634291",
+		"username": "ProGaz10",
+		"modder": [
+			"Modded Melee Weapon Damage Multiplier"
+		],
+		"rank": "384",
+		"wallet": "2000",
+		"bank": "488014732",
+		"earnings": "488016732"
 	}
 }
