@@ -248,5 +248,18 @@
 		"wallet": "2000",
 		"bank": "488014732",
 		"earnings": "488016732"
+	},
+
+	"233517839": {
+		"addition": "anticheat",
+		"datetime": "1715634350",
+		"username": "mythologi77",
+		"modder": [
+			"TRN"
+		],
+		"rank": "0",
+		"wallet": "0",
+		"bank": "0",
+		"earnings": "0"
 	}
 }
