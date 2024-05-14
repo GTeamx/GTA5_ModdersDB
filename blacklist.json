@@ -81,45 +81,6 @@
 		"earnings": "441822"
 	},
 
-	"94866849": {
-		"addition": "anticheat",
-		"datetime": "1715632046",
-		"username": "nyulumulu",
-		"modder": [
-			"Owned Explosion"
-		],
-		"rank": "121",
-		"wallet": "0",
-		"bank": "785063",
-		"earnings": "785063"
-	},
-
-	"158046870": {
-		"addition": "anticheat",
-		"datetime": "1715632046",
-		"username": "YNWAndr3",
-		"modder": [
-			"Owned Explosion"
-		],
-		"rank": "86",
-		"wallet": "9473",
-		"bank": "1304311",
-		"earnings": "1313784"
-	},
-
-	"154106371": {
-		"addition": "anticheat",
-		"datetime": "1715632046",
-		"username": "Leroypr",
-		"modder": [
-			"Owned Explosion"
-		],
-		"rank": "129",
-		"wallet": "796685",
-		"bank": "944398",
-		"earnings": "1741083"
-	},
-
 	"76031069": {
 		"addition": "anticheat",
 		"datetime": "1715632692",
@@ -164,7 +125,7 @@
 		"datetime": "1715633083",
 		"username": "Maccros2",
 		"modder": [
-			"MODDER"
+			"Modded Vehicle"
 		],
 		"rank": "59",
 		"wallet": "15250",
