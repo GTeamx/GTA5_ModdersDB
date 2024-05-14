@@ -42,32 +42,6 @@
 		"earnings": "991090"
 	},
 
-	"117977023": {
-		"origin": "gteam_anticheat",
-		"datetime": "1715631940",
-		"username": "BerkieBYGame",
-		"modder": [
-			"TRN"
-		],
-		"rank": "226",
-		"wallet": "63129",
-		"bank": "1208554",
-		"earnings": "1271683"
-	},
-
-	"242897867": {
-		"origin": "gteam_anticheat",
-		"datetime": "1715631949",
-		"username": "Black0ut19",
-		"modder": [
-			"TRN"
-		],
-		"rank": "226",
-		"wallet": "63129",
-		"bank": "1208554",
-		"earnings": "1271683"
-	},
-
 	"124603663": {
 		"origin": "gteam_anticheat",
 		"datetime": "1715631994",
@@ -92,32 +66,6 @@
 		"wallet": "0",
 		"bank": "0",
 		"earnings": "0"
-	},
-
-	"239472582": {
-		"origin": "gteam_anticheat",
-		"datetime": "1715632737",
-		"username": "MrMOZ3G",
-		"modder": [
-			"DIG"
-		],
-		"rank": "769",
-		"wallet": "1086806",
-		"bank": "-2147483649",
-		"earnings": "-2146396843"
-	},
-
-	"199195126": {
-		"origin": "gteam_anticheat",
-		"datetime": "1715632749",
-		"username": "naxs_yo",
-		"modder": [
-			"DIG"
-		],
-		"rank": "769",
-		"wallet": "1086806",
-		"bank": "-2147483649",
-		"earnings": "-2146396843"
 	},
 
 	"146645457": {
@@ -146,19 +94,6 @@
 		"earnings": "1261066"
 	},
 
-	"190119155": {
-		"origin": "gteam_anticheat",
-		"datetime": "1715633830",
-		"username": "mr-skayri",
-		"modder": [
-			"TRN"
-		],
-		"rank": "102",
-		"wallet": "37924",
-		"bank": "0",
-		"earnings": "37924"
-	},
-
 	"10733282": {
 		"origin": "gteam_anticheat",
 		"datetime": "1715633952",
@@ -172,32 +107,6 @@
 		"earnings": "1261066"
 	},
 
-	"213165431": {
-		"origin": "gteam_anticheat",
-		"datetime": "1715634002",
-		"username": "DSRibeiro_222",
-		"modder": [
-			"TRN"
-		],
-		"rank": "0",
-		"wallet": "0",
-		"bank": "0",
-		"earnings": "0"
-	},
-
-	"164909359": {
-		"origin": "gteam_anticheat",
-		"datetime": "1715634217",
-		"username": "HamoudaTAM10",
-		"modder": [
-			"TRN"
-		],
-		"rank": "38",
-		"wallet": "31324",
-		"bank": "118153",
-		"earnings": "149477"
-	},
-
 	"85432407": {
 		"origin": "gteam_anticheat",
 		"datetime": "1715634291",
@@ -209,19 +118,6 @@
 		"wallet": "2000",
 		"bank": "488014732",
 		"earnings": "488016732"
-	},
-
-	"233517839": {
-		"origin": "gteam_anticheat",
-		"datetime": "1715634350",
-		"username": "mythologi77",
-		"modder": [
-			"TRN"
-		],
-		"rank": "0",
-		"wallet": "0",
-		"bank": "0",
-		"earnings": "0"
 	},
 
 	"246884583": {
