@@ -1,6 +1,6 @@
 {
 	"[str] PLAYER_ROCKSTAR_ID": {
-		"addition": "[str] MANUAL/AUTOMATIC/ANTICHEAT",
+		"origin": "[str] MANUAL/GTEAM_ANTICHEAT/ROCKSTAR",
 		"datetime": "[int] SECONDS_TIME",
 		"username": "[str] PLAYER_USERNAME",
 		"modder": [
@@ -15,7 +15,7 @@
 	},
 
 	"228106252": {
-		"addition": "manual",
+		"origin": "manual",
 		"datetime": "1715417945",
 		"username": "IiIiiIiiIiiIixst",
 		"modder": [
@@ -30,7 +30,7 @@
 	},
 
 	"245128503": {
-		"addition": "manual",
+		"origin": "manual",
 		"datetime": "1715507061",
 		"username": "TESEES",
 		"modder": [
@@ -43,7 +43,7 @@
 	},
 
 	"117977023": {
-		"addition": "anticheat",
+		"origin": "gteam_anticheat",
 		"datetime": "1715631940",
 		"username": "BerkieBYGame",
 		"modder": [
@@ -56,7 +56,7 @@
 	},
 
 	"242897867": {
-		"addition": "anticheat",
+		"origin": "gteam_anticheat",
 		"datetime": "1715631949",
 		"username": "Black0ut19",
 		"modder": [
@@ -69,7 +69,7 @@
 	},
 
 	"124603663": {
-		"addition": "anticheat",
+		"origin": "gteam_anticheat",
 		"datetime": "1715631994",
 		"username": "RIV_Heaven",
 		"modder": [
@@ -82,7 +82,7 @@
 	},
 
 	"76031069": {
-		"addition": "anticheat",
+		"origin": "gteam_anticheat",
 		"datetime": "1715632692",
 		"username": "Dixio_89",
 		"modder": [
@@ -95,7 +95,7 @@
 	},
 
 	"239472582": {
-		"addition": "anticheat",
+		"origin": "gteam_anticheat",
 		"datetime": "1715632737",
 		"username": "MrMOZ3G",
 		"modder": [
@@ -108,7 +108,7 @@
 	},
 
 	"199195126": {
-		"addition": "anticheat",
+		"origin": "gteam_anticheat",
 		"datetime": "1715632749",
 		"username": "naxs_yo",
 		"modder": [
@@ -121,7 +121,7 @@
 	},
 
 	"146645457": {
-		"addition": "anticheat",
+		"origin": "gteam_anticheat",
 		"datetime": "1715633083",
 		"username": "Maccros2",
 		"modder": [
@@ -134,7 +134,7 @@
 	},
 
 	"189709166": {
-		"addition": "anticheat",
+		"origin": "gteam_anticheat",
 		"datetime": "1715633784",
 		"username": "ZHANGYUBUYU",
 		"modder": [
@@ -147,7 +147,7 @@
 	},
 
 	"190119155": {
-		"addition": "anticheat",
+		"origin": "gteam_anticheat",
 		"datetime": "1715633830",
 		"username": "mr-skayri",
 		"modder": [
@@ -160,7 +160,7 @@
 	},
 
 	"10733282": {
-		"addition": "anticheat",
+		"origin": "gteam_anticheat",
 		"datetime": "1715633952",
 		"username": "DOC_GAX_REN",
 		"modder": [
@@ -173,7 +173,7 @@
 	},
 
 	"213165431": {
-		"addition": "anticheat",
+		"origin": "gteam_anticheat",
 		"datetime": "1715634002",
 		"username": "DSRibeiro_222",
 		"modder": [
@@ -186,7 +186,7 @@
 	},
 
 	"164909359": {
-		"addition": "anticheat",
+		"origin": "gteam_anticheat",
 		"datetime": "1715634217",
 		"username": "HamoudaTAM10",
 		"modder": [
@@ -199,7 +199,7 @@
 	},
 
 	"85432407": {
-		"addition": "anticheat",
+		"origin": "gteam_anticheat",
 		"datetime": "1715634291",
 		"username": "ProGaz10",
 		"modder": [
@@ -212,7 +212,7 @@
 	},
 
 	"233517839": {
-		"addition": "anticheat",
+		"origin": "gteam_anticheat",
 		"datetime": "1715634350",
 		"username": "mythologi77",
 		"modder": [
@@ -225,7 +225,7 @@
 	},
 
 	"246884583": {
-		"addition": "anticheat",
+		"origin": "gteam_anticheat",
 		"datetime": "1715634773",
 		"username": "NvvyGosh",
 		"modder": [
