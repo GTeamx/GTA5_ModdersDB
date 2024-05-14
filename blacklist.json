@@ -183,5 +183,408 @@
 		"wallet": "130",
 		"bank": "291344233",
 		"earnings": "291344363"
+	},
+
+	"201027509": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715697872",
+		"username": "flasheu",
+		"modder": [
+			"Spoofed Score Data V1"
+		],
+		"rank": "223",
+		"wallet": "261462",
+		"bank": "74442740",
+		"earnings": "74704202"
+	},
+
+	"199788860": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715697988",
+		"username": "PROMETEYLi",
+		"modder": [
+			"Spoofed Host Token"
+		],
+		"rank": "46",
+		"wallet": "45357",
+		"bank": "0",
+		"earnings": "0"
+	},
+
+	"226294703": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715698178",
+		"username": "Miilloux",
+		"modder": [
+			"Spoofed Host Token"
+		],
+		"rank": "101",
+		"wallet": "36808",
+		"bank": "1220948",
+		"earnings": "1257756"
+	},
+
+	"220787657": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715699493",
+		"username": "Catwithcream",
+		"modder": [
+			"DIG"
+		],
+		"rank": "344",
+		"wallet": "9000",
+		"bank": "3994145",
+		"earnings": "4003145"
+	},
+
+	"246646528": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715700745",
+		"username": "Redrum2070",
+		"modder": [
+			"Shooting while invincible"
+		],
+		"rank": "648",
+		"wallet": "461981",
+		"bank": "8858014",
+		"earnings": "9319995"
+	},
+
+	"182170964": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715701281",
+		"username": "AC__PT",
+		"modder": [
+			"Modded Vehicle"
+		],
+		"rank": "278",
+		"wallet": "314360",
+		"bank": "43079788",
+		"earnings": "43394148"
+	},
+
+	"92680820": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715702186",
+		"username": "keyteau",
+		"modder": [
+			"Shooting while invincible"
+		],
+		"rank": "158",
+		"wallet": "50792",
+		"bank": "6578230",
+		"earnings": "6629022"
+	},
+
+	"251277749": {
+		"origin": "rockstar",
+		"datetime": "1715702397",
+		"username": "Wawane64",
+		"modder": [
+			"Cheater"
+		],
+		"rank": "0",
+		"wallet": "0",
+		"bank": "0",
+		"earnings": "0"
+	},
+
+	"251556311": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715702425",
+		"username": "ERA__Hyouka",
+		"modder": [
+			"DIG"
+		],
+		"rank": "317",
+		"wallet": "19330320",
+		"bank": "0",
+		"earnings": "19330320"
+	},
+
+	"144978615": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715702537",
+		"username": "XxBaiawai",
+		"modder": [
+			"Spoofed Host Token"
+		],
+		"rank": "0",
+		"wallet": "0",
+		"bank": "0",
+		"earnings": "0"
+	},
+
+	"219856667": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715702573",
+		"username": "ZZ-_D1AnA_T0rr3s",
+		"modder": [
+			"Modded Melee Weapon Damage Multiplier"
+		],
+		"rank": "176",
+		"wallet": "1257102",
+		"bank": "310035350",
+		"earnings": "311292452"
+	},
+
+	"117017156": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715703574",
+		"username": "Seedy34",
+		"modder": [
+			"Super Jump"
+		],
+		"rank": "635",
+		"wallet": "494161",
+		"bank": "17271867",
+		"earnings": "17766028"
+	},
+
+	"234405697": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715703775",
+		"username": "Lezouz123",
+		"modder": [
+			"Shooting while invincible"
+		],
+		"rank": "300",
+		"wallet": "0",
+		"bank": "50823248",
+		"earnings": "50823248"
+	},
+
+	"230840314": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715704351",
+		"username": "NoobMasterMike",
+		"modder": [
+			"Spoofed Host Token"
+		],
+		"rank": "13",
+		"wallet": "65539",
+		"bank": "0",
+		"earnings": "65539"
+	},
+
+	"189631389": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715704932",
+		"username": "Mrlula123",
+		"modder": [
+			"Shooting while invincible"
+		],
+		"rank": "159",
+		"wallet": "2993893",
+		"bank": "26252818",
+		"earnings": "29246711"
+	},
+
+	"235482623": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715705148",
+		"username": "ODICGY",
+		"modder": [
+			"Advertisement"
+		],
+		"rank": "0",
+		"wallet": "0",
+		"bank": "0",
+		"earnings": "0"
+	},
+
+	"239281732": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715705840",
+		"username": "woshinidie541",
+		"modder": [
+			"Spoofed Host Token"
+		],
+		"rank": "132",
+		"wallet": "4265",
+		"bank": "2060505",
+		"earnings": "2064770"
+	},
+
+	"159630660": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715706247",
+		"username": "s_sock",
+		"modder": [
+			"Super Jump"
+		],
+		"rank": "398",
+		"wallet": "46672",
+		"bank": "31132034",
+		"earnings": "31178706"
+	},
+
+	"26590897": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715706670",
+		"username": "eyevisions",
+		"modder": [
+			"Spoofed Host Token"
+		],
+		"rank": "908",
+		"wallet": "5046994",
+		"bank": "25541822",
+		"earnings": "30588816"
+	},
+
+	"215090669": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715706731",
+		"username": "SardinianKillerz",
+		"modder": [
+			"Shooting while invincible"
+		],
+		"rank": "2228",
+		"wallet": "500",
+		"bank": "0",
+		"earnings": "0"
+	},
+
+	"248750757": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715706912",
+		"username": "8-800-2000-122",
+		"modder": [
+			"Spoofed Host Token"
+		],
+		"rank": "569",
+		"wallet": "357881",
+		"bank": "250694025",
+		"earnings": "251051906"
+	},
+
+	"194764792": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715706972",
+		"username": "vito-ja-vito",
+		"modder": [
+			"Shooting while invincible"
+		],
+		"rank": "150",
+		"wallet": "1466259",
+		"bank": "16079945",
+		"earnings": "17546204"
+	},
+
+	"165348527": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715707039",
+		"username": "FeariusDS",
+		"modder": [
+			"Modded Melee Weapon Damage Multiplier"
+		],
+		"rank": "2722",
+		"wallet": "389999500",
+		"bank": "737035539",
+		"earnings": "1127035039"
+	},
+
+	"172917433": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715707110",
+		"username": "Darth_Revan6IX",
+		"modder": [
+			"Modded Vehicle"
+		],
+		"rank": "1240",
+		"wallet": "2266418",
+		"bank": "62238602",
+		"earnings": "64505020"
+	},
+
+	"213132372": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715707582",
+		"username": "LoudScissors723",
+		"modder": [
+			"Super Jump"
+		],
+		"rank": "464",
+		"wallet": "6651",
+		"bank": "0",
+		"earnings": "0"
+	},
+
+	"227607527": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715707707",
+		"username": "rockinstarssssss",
+		"modder": [
+			"DIG"
+		],
+		"rank": "501",
+		"wallet": "2211553",
+		"bank": "92359529",
+		"earnings": "94571082"
+	},
+
+	"42055279": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715707712",
+		"username": "LoveKutasy69",
+		"modder": [
+			"Shooting while invincible"
+		],
+		"rank": "4000",
+		"wallet": "6450176",
+		"bank": "51267391",
+		"earnings": "57717567"
+	},
+
+	"250662883": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715707781",
+		"username": "ya_Kane",
+		"modder": [
+			"DIG"
+		],
+		"rank": "501",
+		"wallet": "2211553",
+		"bank": "92359529",
+		"earnings": "94571082"
+	},
+
+	"95956450": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715708308",
+		"username": "S0lezz",
+		"modder": [
+			"Shooting while invincible"
+		],
+		"rank": "1000",
+		"wallet": "58174",
+		"bank": "6673707",
+		"earnings": "6731881"
+	},
+
+	"209704745": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715708932",
+		"username": "coyote3251",
+		"modder": [
+			"Modded Melee Weapon Damage Multiplier"
+		],
+		"rank": "293",
+		"wallet": "4920728",
+		"bank": "4894242",
+		"earnings": "9814970"
+	},
+
+	"189881363": {
+		"origin": "gteam_anticheat",
+		"datetime": "1715709107",
+		"username": "Lobotomite___",
+		"modder": [
+			"Spoofed Host Token"
+		],
+		"rank": "0",
+		"wallet": "0",
+		"bank": "0",
+		"earnings": "0"
 	}
 }
