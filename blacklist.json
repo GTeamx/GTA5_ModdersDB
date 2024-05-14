@@ -157,5 +157,31 @@
 		"wallet": "30713",
 		"bank": "1061376",
 		"earnings": "1092089"
+	},
+
+	"152835165": {
+		"addition": "gteam_anticheat",
+		"datetime": "1715678202",
+		"username": "DEAMON899",
+		"modder": [
+			"Advertisement"
+		],
+		"rank": "25",
+		"wallet": "166234",
+		"bank": "0",
+		"earnings": "0"
+	},
+
+	"184276634": {
+		"addition": "gteam_anticheat",
+		"datetime": "1715678246",
+		"username": "MM12_TT",
+		"modder": [
+			"Modded Melee Weapon Damage Multiplier"
+		],
+		"rank": "123",
+		"wallet": "130",
+		"bank": "291344233",
+		"earnings": "291344363"
 	}
 }
