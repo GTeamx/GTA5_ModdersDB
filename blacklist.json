@@ -134,7 +134,7 @@
 	},
 
 	"175777579": {
-		"addition": "gteam_anticheat",
+		"origin": "gteam_anticheat",
 		"datetime": "1715677885",
 		"username": "-vobler-",
 		"modder": [
@@ -147,7 +147,7 @@
 	},
 
 	"29509908": {
-		"addition": "gteam_anticheat",
+		"origin": "gteam_anticheat",
 		"datetime": "1715677992",
 		"username": "Max_Gain",
 		"modder": [
@@ -160,7 +160,7 @@
 	},
 
 	"152835165": {
-		"addition": "gteam_anticheat",
+		"origin": "gteam_anticheat",
 		"datetime": "1715678202",
 		"username": "DEAMON899",
 		"modder": [
@@ -173,7 +173,7 @@
 	},
 
 	"184276634": {
-		"addition": "gteam_anticheat",
+		"origin": "gteam_anticheat",
 		"datetime": "1715678246",
 		"username": "MM12_TT",
 		"modder": [
