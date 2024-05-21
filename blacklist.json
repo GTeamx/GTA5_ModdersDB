@@ -586,5 +586,83 @@
 		"wallet": "0",
 		"bank": "0",
 		"earnings": "0"
+	},
+
+	"50755813": {
+		"origin": "gteam_anticheat",
+		"datetime": "1716300299",
+		"username": "UBillM",
+		"modder": [
+			"Advertisement"
+		],
+		"rank": "6554",
+		"wallet": "111373",
+		"bank": "0",
+		"earnings": "0"
+	},
+
+	"239544411": {
+		"origin": "gteam_anticheat",
+		"datetime": "1716303444",
+		"username": "TNslashboy1",
+		"modder": [
+			"Shooting while invincible"
+		],
+		"rank": "19",
+		"wallet": "12260",
+		"bank": "4421859",
+		"earnings": "4434119"
+	},
+
+	"165974474": {
+		"origin": "gteam_anticheat",
+		"datetime": "1716303458",
+		"username": "JuniorDeNiro",
+		"modder": [
+			"Shooting while invincible"
+		],
+		"rank": "942",
+		"wallet": "677546605",
+		"bank": "497670556",
+		"earnings": "1175217161"
+	},
+
+	"229258330": {
+		"origin": "gteam_anticheat",
+		"datetime": "1716303471",
+		"username": "madderzmadmat22_",
+		"modder": [
+			"Shooting while invincible"
+		],
+		"rank": "129",
+		"wallet": "7832",
+		"bank": "4479058",
+		"earnings": "4486890"
+	},
+
+	"232441413": {
+		"origin": "gteam_anticheat",
+		"datetime": "1716304127",
+		"username": "Narval_eaux",
+		"modder": [
+			"Model Swap From 'MP_F_Freemode_01' To 'A_C_Rhesus'"
+		],
+		"rank": "129",
+		"wallet": "970488",
+		"bank": "363817",
+		"earnings": "1334305"
+	},
+
+	"231482185": {
+		"origin": "gteam_anticheat",
+		"datetime": "1716304884",
+		"username": "Pekins506",
+		"modder": [
+			"Shooting while invincible"
+		],
+		"rank": "1117",
+		"wallet": "1000129",
+		"bank": "50842974",
+		"earnings": "51843103"
 	}
 }
