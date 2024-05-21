@@ -664,5 +664,57 @@
 		"wallet": "1000129",
 		"bank": "50842974",
 		"earnings": "51843103"
+	},
+
+	"240505761": {
+		"origin": "gteam_anticheat",
+		"datetime": "1716306301",
+		"username": "dermaulwurf_123",
+		"modder": [
+			"Spoofed Host Token"
+		],
+		"rank": "1",
+		"wallet": "18040",
+		"bank": "0",
+		"earnings": "18040"
+	},
+
+	"100912118": {
+		"origin": "gteam_anticheat",
+		"datetime": "1716306317",
+		"username": "k1llik",
+		"modder": [
+			"Shooting while invincible"
+		],
+		"rank": "205",
+		"wallet": "1455945",
+		"bank": "66967866",
+		"earnings": "68423811"
+	},
+
+	"214139916": {
+		"origin": "gteam_anticheat",
+		"datetime": "1716306330",
+		"username": "MonsterAlbin2",
+		"modder": [
+			"Shooting while invincible"
+		],
+		"rank": "187",
+		"wallet": "1306439",
+		"bank": "73917159",
+		"earnings": "75223598"
+	},
+
+	"224414982": {
+		"origin": "gteam_anticheat",
+		"datetime": "1716307394",
+		"username": "darius13371",
+		"modder": [
+			"DIG"
+		],
+		"rank": "451",
+		"wallet": "2278882",
+		"bank": "0",
+		"earnings": "0"
 	}
 }
