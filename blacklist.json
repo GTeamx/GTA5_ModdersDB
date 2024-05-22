@@ -716,5 +716,31 @@
 		"wallet": "2278882",
 		"bank": "0",
 		"earnings": "0"
+	},
+
+	"226185322": {
+		"origin": "gteam_anticheat",
+		"datetime": "1716387256",
+		"username": "Raphaeldu83000",
+		"modder": [
+			"Spoofed Host Token"
+		],
+		"rank": "78",
+		"wallet": "104207",
+		"bank": "102332367",
+		"earnings": "102436574"
+	},
+
+	"249459867": {
+		"origin": "gteam_anticheat",
+		"datetime": "1716387380",
+		"username": "Ilovesnaf",
+		"modder": [
+			"Modded Vehicle"
+		],
+		"rank": "53",
+		"wallet": "0",
+		"bank": "3886683",
+		"earnings": "3886683"
 	}
 }
